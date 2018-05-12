@@ -1,0 +1,35 @@
+_repo: The-Duke-s-SweetheartA-Romance_42599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dowling, Richard
+    aliases:
+    - Fall, Marcus
+    - Dowling, R. (Richard)
+    birthdate: 1846
+    deathdate: 1898
+    gutenberg_agent_id: '41234'
+    url: http://www.gutenberg.org/2009/agents/41234
+description: Called ""The Duke of Long Acre"" in jest by his chums, Charles Augustus
+  Cheyne is an amiable figure with a shadowy past. When love arrives suddenly and
+  unexpectedly, it throws a monkey wrench into the routines that make up his humdrum
+  existence. Will the Duke be able to find a way to make this out-of-the-blue romance
+  last forever?
+gutenberg_issued: '2013-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: 'The Duke''s Sweetheart: A Romance'
+url: http://www.gutenberg.org/ebooks/42599
